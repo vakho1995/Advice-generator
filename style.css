@@ -1,3 +1,4 @@
+/* defoult styles */
 * {
   margin: 0;
   padding: 0;
@@ -5,4 +6,12 @@
 }
 html {
   font-size: 10px;
+}
+/* initial css variables */
+:root {
+  --bg-body: #202733;
+  --bg-content: #313a48;
+  --bg-button: #53ffaa;
+  --color-text1: #53ffaa;
+  --color-text2: #cee3e9;
 }
